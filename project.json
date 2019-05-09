@@ -112,6 +112,34 @@
                         }
                     }
                 ]
+            },
+            {
+                "title": "Assemblage final",
+                "duration": 350,
+                "content": "Assembler le caps piercer comme illustré dans la vidéo.",
+                "inputs": [
+                    {
+                        "screw": {
+                            "quantity": 4,
+                            "material": "steel",
+                            "head": "C",
+                            "head_option": "",
+                            "driving": "S",
+                            "threading": "M",
+                            "diameter": 3,
+                            "length": 30
+                        }
+                    },
+                    {
+                        "nut": {
+                            "quantity": 4,
+                            "material": "steel",
+                            "threading": "M",
+                            "diameter": 3,
+                            "type": "Hex"
+                        }
+                    }
+                ]
             }
         ]
     }
