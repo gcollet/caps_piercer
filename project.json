@@ -8,7 +8,7 @@
         "about": "Nous avons organisé un atelier \"fabrication de chocalho\" à destination des enfants. \nL'idée était de fabriquer un [chocalho](https://www.youtube.com/watch?v=SjY0ynF1nOs) à partir de matériel recyclé (vieux tasseaux, vis, clous, capsules).\nAfin de faciliter le perçage des capsules, nous avons conçu un outil permettant de percer les capsules rapidement et facilement.",
         "steps": [
             {
-                "title": "Étape 1 - Impression du support",
+                "title": "Impression du support",
                 "duration": 9000,
                 "content": "Imprimer le support [pierce_support.stl](https://github.com/gcollet/caps_piercer/blob/master/pierce_support.stl)\n\nParamètres d'impression :\n* Qualité : 0.2 mm\n* Remplissage : 20%\n* Pas de support\n* Pas de brim ou de raft",
                 "inputs": [
