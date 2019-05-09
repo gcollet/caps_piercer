@@ -96,6 +96,14 @@
                 "title": "Couper les ressorts",
                 "duration": 350,
                 "content": "A partir d'un long ressort, découper 4 petits de ressorts de 10mm environ.",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "spring",
+                            "quantity": 1
+                        }
+                    }
+                ],
                 "media": [
                     {
                         "image": {
