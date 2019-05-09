@@ -6,14 +6,6 @@
         "lang": "fr",
         "license": "MIT License",
         "about": "Nous avons organisé un atelier \"fabrication de chocalho\" à destination des enfants. \nL'idée était de fabriquer un [chocalho](https://www.youtube.com/watch?v=SjY0ynF1nOs) à partir de matériel recyclé (vieux tasseaux, vis, clous, capsules).\nAfin de faciliter le perçage des capsules, nous avons conçu un outil permettant de percer les capsules rapidement et facilement.",
-        "featured_images": [
-            {
-                "youtube": {
-                    "id": "8NmX4nEi1V4",
-                    "caption": "Fonctionnement du caps piercer"
-                }
-            }
-        ],
         "steps": [
             {
                 "title": "Impression du support",
