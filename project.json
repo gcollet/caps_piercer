@@ -96,50 +96,11 @@
                 "title": "Couper les ressorts",
                 "duration": 350,
                 "content": "A partir d'un long ressort, découper 4 petits de ressorts de 10mm environ.",
-                "inputs": [
-                    {
-                        "component": {
-                            "slug": "spring",
-                            "quantity": 1
-                        }
-                    }
-                ],
-                "media": [
-                    {
-                        "image": {
-                            "url": "ressorts.png",
-                            "caption": "Ressorts"
-                        }
-                    }
-                ]
             },
             {
                 "title": "Assemblage final",
                 "duration": 350,
                 "content": "Assembler le caps piercer comme illustré dans la vidéo.",
-                "inputs": [
-                    {
-                        "screw": {
-                            "quantity": 4,
-                            "material": "steel",
-                            "head": "C",
-                            "head_option": "",
-                            "driving": "S",
-                            "threading": "M",
-                            "diameter": 3,
-                            "length": 30
-                        }
-                    },
-                    {
-                        "nut": {
-                            "quantity": 4,
-                            "material": "steel",
-                            "threading": "M",
-                            "diameter": 3,
-                            "type": "Hex"
-                        }
-                    }
-                ]
             }
         ]
     }
