@@ -52,6 +52,13 @@
                             "slug": "nail",
                             "quantity": 1
                         }
+                    },
+                    {
+                        "tool": {
+                            "slug": "meuleuse",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
+                        }
                     }
                 ],
                 "media": [
