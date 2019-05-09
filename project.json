@@ -26,6 +26,12 @@
                             "url": "support.png",
                             "caption": "Support"
                         }
+                    },
+                    {
+                        "image": {
+                            "url": "support_imprime.png",
+                            "caption": "Le support imprimé"
+                        }
                     }
                 ]
             },
@@ -52,13 +58,6 @@
                             "slug": "nail",
                             "quantity": 1
                         }
-                    },
-                    {
-                        "tool": {
-                            "slug": "meuleuse",
-                            "github_organization": "myhumankit",
-                            "github_repository": "myworkshop-humanlab-tools"
-                        }
                     }
                 ],
                 "media": [
@@ -66,6 +65,19 @@
                         "image": {
                             "url": "clou_coupe.png",
                             "caption": "clou coupé"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Couper les ressorts",
+                "duration": 350,
+                "content": "A partir d'un long ressort, découper 4 petits de ressorts de 10mm environ.",
+                "media": [
+                    {
+                        "image": {
+                            "url": "ressorts.png",
+                            "caption": "Ressorts"
                         }
                     }
                 ]
