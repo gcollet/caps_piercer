@@ -41,6 +41,19 @@
                         }
                     }
                 ]
+            },
+            {
+                "title": "Découpe du clou",
+                "duration": 1800,
+                "content": "",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "nail",
+                            "quantity": 1
+                        }
+                    }
+                ]
             }
         ]
     }
