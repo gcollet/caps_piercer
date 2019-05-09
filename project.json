@@ -45,12 +45,20 @@
             {
                 "title": "Découpe du clou",
                 "duration": 1800,
-                "content": "",
+                "content": "Les clous de diamètre 6mm sont forcément trop long. Il faut donc le couper pour qu'il fasse environ 25mm de long.\nJe l'ai fait avec un dremel mais vous pouvez aussi le faire à la meuleuse.\n\nCe n'est pas optimal car on gâche une bonne partie du clou. Il faudrait trouver comment utiliser le reste du clou.",
                 "inputs": [
                     {
                         "component": {
                             "slug": "nail",
                             "quantity": 1
+                        }
+                    }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "clou_coupe.png",
+                            "caption": "clou coupé"
                         }
                     }
                 ]
