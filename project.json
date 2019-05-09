@@ -141,6 +141,14 @@
                     }
                 ]
             }
+        ],
+        "featured_images": [
+            {
+                "youtube": {
+                    "id": "8NmX4nEi1V4",
+                    "caption": "Fonctionnement du caps piercer"
+                }
+            }
         ]
     }
 }
