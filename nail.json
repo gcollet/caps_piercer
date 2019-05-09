@@ -1,0 +1,18 @@
+{
+    "component": {
+        "full_name": "Clou 6x180mm",
+        "short_description": "Un clou tête plate de 6mm de diamètre, 180mm de long\n",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 0.5,
+            "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "https://s2.lmcdn.fr/multimedia/ea1400171023/14b20568cf9ea/produits/clous-special-beton-acier-standers-tete-plate-diam-6-4-x-l-180-mm.jpg",
+                "caption": "Clou 6x180mm"
+            }
+        }
+    }
+}
