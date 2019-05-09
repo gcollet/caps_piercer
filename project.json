@@ -13,12 +13,11 @@
                 "content": "Imprimer le support [pierce_support.stl](https://github.com/gcollet/caps_piercer/blob/master/pierce_support.stl)\n\nParamètres d'impression :\n* Qualité : 0.2 mm\n* Remplissage : 20%\n* Pas de support\n* Pas de brim ou de raft",
                 "inputs": [
                     {
-                        "component": {
-                            "slug": "",
-                            "quantity": 1,
-                            "github_organization": "",
-                            "github_repository": ""
-                        }
+                      "tool": {
+                          "slug": "imprimante-3d",
+                          "github_organization": "myhumankit",
+                          "github_repository": "myworkshop-humanlab-tools"
+                      }
                     }
                 ]
             }
