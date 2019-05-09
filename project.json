@@ -28,6 +28,19 @@
                         }
                     }
                 ]
+            },
+            {
+                "title": "Découpe de la plaque de métal",
+                "duration": 1800,
+                "content": "Découper une plaque de métal selon les cotes données.\nL'épaisseur peut être 1mm mais j'ai utilisé la coque d'un vieux lecteur de CD d'ordinateur et cela a tenu.",
+                "media": [
+                    {
+                        "image": {
+                            "url": "cotes_plaque.png",
+                            "caption": "Cotes de la plaque"
+                        }
+                    }
+                ]
             }
         ]
     }
