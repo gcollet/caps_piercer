@@ -46,6 +46,22 @@
                             "caption": "Cotes de la plaque"
                         }
                     }
+                ],
+                "inputs": [
+                    {
+                        "tool": {
+                            "slug": "meuleuse",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "perceuse-a-colonne",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
+                        }
+                    }
                 ]
             },
             {
@@ -57,6 +73,13 @@
                         "component": {
                             "slug": "nail",
                             "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "meuleuse",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-humanlab-tools"
                         }
                     }
                 ],
