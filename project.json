@@ -19,6 +19,14 @@
                             "github_repository": "myworkshop-humanlab-tools"
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "support.png",
+                            "caption": "Support"
+                        }
+                    }
                 ]
             }
         ]
